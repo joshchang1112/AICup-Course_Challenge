@@ -39,7 +39,7 @@ pip3 install -r requirement.txt
 
 *   `preprocess.py`: Tokenize the raw texts of papers, convert word tokens to ids for below training using RoBERTa.
 
-*   `train.py`: Fine-tuned RoBERTa model on multi-label classification task with args parameters. `python train.py --help` for more information. 
+*   `train.py`: Fine-tuned and predict using RoBERTa model on multi-label classification task with args parameters. 
 
 *   `dataset.py`: The dataset when fine-tuning RoBERTa model.
 
