@@ -1,4 +1,4 @@
-# AICup Course Challenge - Thesis Classification
+# AICup Course Challenge - Machine Reading & Understanding
 
 ## Competition description
 
